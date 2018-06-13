@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/nTierPongClient.iml" filepath="$PROJECT_DIR$/nTierPongClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nTierPongModel/nTierPongModel.iml" filepath="$PROJECT_DIR$/../nTierPongModel/nTierPongModel.iml" />
     </modules>
   </component>
 </project>
