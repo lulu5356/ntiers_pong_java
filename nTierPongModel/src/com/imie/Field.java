@@ -7,4 +7,12 @@ import java.util.Map;
  */
 public class Field {
     protected Map map;
+
+    public Map getMap() {
+        return map;
+    }
+
+    public void setMap(Map map) {
+        this.map = map;
+    }
 }
